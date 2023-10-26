@@ -1,0 +1,15 @@
+/Users/thatguy/code/C#/LINQ2/bin/Debug/net6.0/LINQ2
+/Users/thatguy/code/C#/LINQ2/bin/Debug/net6.0/LINQ2.deps.json
+/Users/thatguy/code/C#/LINQ2/bin/Debug/net6.0/LINQ2.runtimeconfig.json
+/Users/thatguy/code/C#/LINQ2/bin/Debug/net6.0/LINQ2.dll
+/Users/thatguy/code/C#/LINQ2/bin/Debug/net6.0/LINQ2.pdb
+/Users/thatguy/code/C#/LINQ2/obj/Debug/net6.0/LINQ2.csproj.AssemblyReference.cache
+/Users/thatguy/code/C#/LINQ2/obj/Debug/net6.0/LINQ2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatguy/code/C#/LINQ2/obj/Debug/net6.0/LINQ2.AssemblyInfoInputs.cache
+/Users/thatguy/code/C#/LINQ2/obj/Debug/net6.0/LINQ2.AssemblyInfo.cs
+/Users/thatguy/code/C#/LINQ2/obj/Debug/net6.0/LINQ2.csproj.CoreCompileInputs.cache
+/Users/thatguy/code/C#/LINQ2/obj/Debug/net6.0/LINQ2.dll
+/Users/thatguy/code/C#/LINQ2/obj/Debug/net6.0/refint/LINQ2.dll
+/Users/thatguy/code/C#/LINQ2/obj/Debug/net6.0/LINQ2.pdb
+/Users/thatguy/code/C#/LINQ2/obj/Debug/net6.0/LINQ2.genruntimeconfig.cache
+/Users/thatguy/code/C#/LINQ2/obj/Debug/net6.0/ref/LINQ2.dll
